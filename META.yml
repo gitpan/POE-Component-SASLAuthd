@@ -1,0 +1,17 @@
+--- #YAML:1.0
+name:                POE-Component-SASLAuthd
+version:             0.01
+abstract:            POE component that implements the Cyrus SASL
+license:             ~
+author:              
+    - Kirill Miazine <km@krot.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    POE::Filter::Line:             0
+    POE::Session:                  0
+    POE::Wheel::ReadWrite:         0
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
