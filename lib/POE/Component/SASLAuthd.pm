@@ -11,16 +11,15 @@ use POE::Filter::Line;
 
 =head1 NAME
 
-POE::Component::SASLAuthd - POE component that implements the Cyrus SASL
-authdaemond daemon.
+POE::Component::SASLAuthd - Implement the Cyrus SASL authdaemond daemon.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS

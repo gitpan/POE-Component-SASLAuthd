@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                POE-Component-SASLAuthd
-version:             0.01
+version:             0.02
 abstract:            POE component that implements the Cyrus SASL
 license:             ~
 author:              
